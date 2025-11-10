@@ -6,6 +6,7 @@ const SYNC_MESSAGE_ID_COLUMN = 12; // Column A for storing HubDB row ID (hs_id)
 
 // TARGET SHEET CONFIGURATION - Change this to switch sheets
 const TARGET_SHEET_NAME = 'pesta-sukan-hockey-2025-06-24';
+
 /**
  * Get the target sheet by name
  */
